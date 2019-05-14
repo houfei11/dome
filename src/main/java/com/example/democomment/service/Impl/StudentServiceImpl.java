@@ -1,8 +1,8 @@
-package service.Impl;
+package com.example.democomment.service.Impl;
 
-import dao.StudentDao;
+import com.example.democomment.dao.StudentDao;
 import org.springframework.stereotype.Service;
-import service.StudentService;
+import com.example.democomment.service.StudentService;
 
 import javax.annotation.Resource;
 

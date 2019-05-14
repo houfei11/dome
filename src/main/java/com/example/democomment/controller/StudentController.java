@@ -1,8 +1,8 @@
-package controller;
+package com.example.democomment.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
-import service.StudentService;
+import com.example.democomment.service.StudentService;
 
 @Controller
 public class StudentController {

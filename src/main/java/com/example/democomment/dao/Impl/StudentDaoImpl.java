@@ -1,6 +1,6 @@
-package dao.Impl;
+package com.example.democomment.dao.Impl;
 
-import dao.StudentDao;
+import com.example.democomment.dao.StudentDao;
 import org.springframework.stereotype.Repository;
 
 @Repository

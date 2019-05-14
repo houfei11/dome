@@ -1,10 +1,10 @@
-package Test;
+package com.example.democomment.Test;
 
-import controller.StudentController;
-import dao.Impl.StudentDaoImpl;
+import com.example.democomment.controller.StudentController;
+import com.example.democomment.dao.Impl.StudentDaoImpl;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-import service.Impl.StudentServiceImpl;
+import com.example.democomment.service.Impl.StudentServiceImpl;
 
 public class Test {
     public static void main(String[] args) {

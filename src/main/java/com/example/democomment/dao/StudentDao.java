@@ -1,4 +1,4 @@
-package dao;
+package com.example.democomment.dao;
 
 /**
  * 持久化数据层
